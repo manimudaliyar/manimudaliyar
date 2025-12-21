@@ -2,7 +2,7 @@
 
 I’m an engineer moving deeper into **DevOps & Cloud Engineering**, focused on building systems that are automated, observable, and boring in production (the good kind).
 
-I’m **AWS Certified Solutions Architect – Associate (SAA-C03)** and I care more about workflows, reliability, and repeatability than shiny dashboards.
+**AWS Certified Solutions Architect – Associate (SAA-C03)** and I care more about workflows, reliability, and repeatability than shiny dashboards.
 
 ---
 
@@ -11,7 +11,7 @@ I’m **AWS Certified Solutions Architect – Associate (SAA-C03)** and I care m
 • Linux and Bash for day-to-day automation  
 • Git and GitHub for clean, reviewable workflows  
 • Applying AWS architecture patterns through hands-on projects  
-• Learning how real DevOps teams reduce failure, not just deploy faster  
+• Learning how real DevOps teams reduce failure, not just deploy faster 🚦  
 
 ---
 

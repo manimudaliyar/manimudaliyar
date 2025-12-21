@@ -1,64 +1,44 @@
 # Hi, I’m Mani 👋
 
-I’m a systems-minded engineer transitioning into **Cloud & DevOps**, with hands-on experience in Linux, Git, and AWS fundamentals. I care about reliability, automation, and building things that don’t break at 3 AM.
+I’m an engineer moving deeper into **DevOps & Cloud Engineering**, focused on building systems that are automated, observable, and boring in production (the good kind).
 
-Currently sharpening my skills around infrastructure, scripting, and cloud architecture, with a strong focus on learning the *why*, not just the *how*.
-
----
-
-## 🚀 What I’m Working On
-
-• Strengthening Linux fundamentals and Bash scripting  
-• Version control and collaboration using Git & GitHub  
-• Building small, practical projects to understand real-world DevOps workflows  
-• Expanding cloud knowledge with AWS services and architecture patterns  
+I’m **AWS Certified Solutions Architect – Associate (SAA-C03)** and I care more about workflows, reliability, and repeatability than shiny dashboards.
 
 ---
 
-## 🧠 What I Believe In
+## What I’m Doing Right Now 🔧
 
-• Automate first, document always  
-• Simple systems scale better  
-• Read the docs, then read them again  
-• If it’s not reproducible, it’s not done  
-
----
-
-## 🛠️ Tools & Technologies
-
-**Operating Systems**  
-Linux (Ubuntu), Windows  
-
-**Version Control**  
-Git, GitHub  
-
-**Cloud (Learning & Practicing)**  
-AWS  
-
-**Scripting & Automation**  
-Bash  
-
-*(More coming as I build and ship projects)*
+• Linux and Bash for day-to-day automation  
+• Git and GitHub for clean, reviewable workflows  
+• Applying AWS architecture patterns through hands-on projects  
+• Learning how real DevOps teams reduce failure, not just deploy faster  
 
 ---
 
-## 📌 Goals
+## DevOps Mindset 🧠
 
-• Become job-ready for Cloud / DevOps roles  
-• Build production-style projects, not tutorial clones  
-• Develop strong fundamentals before chasing tools  
-• Contribute to open-source when ready  
-
----
-
-## 📫 Let’s Connect
-
-• LinkedIn: www.linkedin.com/in/mmudaliyar  
-• GitHub: You’re already here  
+• Infrastructure should be reproducible  
+• If it’s manual, it’s technical debt  
+• Logs, metrics, and alerts beat guessing  
+• Simple pipelines > clever pipelines  
 
 ---
 
-> “Strong systems are boring. Boring is good.”
+## Tools in My Orbit 🛠️
+
+Linux • Bash • Git • GitHub • AWS  
+(Docker, Terraform, CI/CD coming in hot 🔜)
+
+---
+
+## Current Status 📍
+
+Certified → Automating → Breaking → Fixing → Improving
+
+---
+
+📫 LinkedIn: www.linkedin.com/in/mmudaliyar
+
 
 
 <!--

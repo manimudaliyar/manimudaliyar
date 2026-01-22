@@ -23,8 +23,8 @@ I’m an **AWS Certified Solutions Architect – Associate (SAA-C03)**, but I ca
 ---
 
 ### Tools in My Orbit 🛠️
-Linux • Bash • Git • GitHub • AWS  
-Docker • Terraform • CI/CD (actively learning)
+Linux • Bash • Git • GitHub • AWS • Docker 
+Terraform • CI/CD (actively learning)
 
 ---
 
